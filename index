@@ -19,7 +19,7 @@
       </a-assets>
 
       <!-- マーカーの.pattファイルを読み込む -->
-      <a-marker type="pattern" url="./asset/tori.patt">
+      <a-marker type="pattern" url="./assets/pattern-tori.patt">
         <!-- 3Dモデルを呼び出す -->
         <a-entity gltf-model="tori"></a-entity>
       </a-marker>
